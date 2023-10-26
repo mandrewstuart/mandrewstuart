@@ -8,3 +8,4 @@
 - 📫 How to reach me: andrew.matte@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: not all facts are fun.
+- All code that is not forked that is written by my is available under this license: "do whatever you want for free, please let me know how it goes and if it goes wrong, you may not sue me, just hire me to fix it for your use-case."
